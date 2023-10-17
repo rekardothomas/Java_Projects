@@ -1,4 +1,13 @@
-//Rekardo Thomas CIS 144 Rock, Paper, Scissors.
+/**
+
+ Name: Rekardo Thomas
+ Course: CIS 144
+ Purpose:Chapter 3 - Coding assignments CIS 144
+ This displays code for programming exercises 3.1, 3.17, 3.25, 3.33
+
+ */
+
+
 import java.util.*;
 import java.lang.*;
 
