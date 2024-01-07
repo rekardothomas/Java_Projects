@@ -1,11 +1,8 @@
 /**
 
- Name: Rekardo Thomas
- Course: CIS 144
- Purpose:Chapter 3 - Coding assignments CIS 144
- This displays code for programming exercises 3.1, 3.17, 3.25, 3.33
+This code allows user to play rock, paper, scissors against computer.
 
- */
+*/
 
 
 import java.util.*;
